@@ -7,58 +7,22 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+A more detailed CV is available upon request.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Work experience
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+1. Wissenschaftlicher Mitarbeiter incl. research in Financial Mathematics and 4 SWS <a href="/teaching">teaching duties</a>, Group "Stochastik und Finanzmathematik", TU Berlin, 2019-2024
+2. Tutor (three terms), Universität Freiburg, 2013-2015
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+1. Ongoing: Dr. rer. nat. Mathematics, TU Berlin, expected 2024
+  * Recognised student, University of Oxford, Michaelmas Term 2023/24
+2. MSc Mathematics, École normale supérieure de Lyon / Université Lyon 1 Claude Bernard, 2017
+3. BSc Mathematics, Universität Freiburg, 2015
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Further activities and affiliations
+
+* Berlin-Oxford IRTG 2544 "Stochastic Analysis in Interaction"
+* Tag der Mathematik, organised by Berliner Mathematische Gesellschaft
+* d/carb future economy forum
