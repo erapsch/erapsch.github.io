@@ -21,34 +21,34 @@ repository               : "erapsch/erapsch.github.io"
 
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "E. Emanuel Rapsch"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematician | Researcher at TU Berlin"
-  location         : "Berlin"
+  bio              : "Wissenschaftlicher Mitarbeiter (Research + Teaching) and Doctoral candidate at TU Berlin, Affiliated member of Berlin-Oxford IRTG 2544"
+  location         : "Berlin, Germany"
   employer         : "TU Berlin"
   uri              : # URL
   email            : "rapsch@math.tu-berlin.de" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  arxiv            : "https://arxiv.org/search/econ?searchtype=author&query=Rapsch,+E+E"
+  googlescholar    : "https://scholar.google.com/citations?user=d7b5xeMAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0000-8921-3894"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "erapsch"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -121,7 +121,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
