@@ -1,5 +1,9 @@
-
-### Privacy Policy
+---
+layout: archive
+title: "Privacy Policy"
+permalink: /privacy-policy/
+author_profile: true
+---
 
 Personal data (usually referred to just as „data“ below) will only be processed by us to the extent necessary and for the purpose of providing a functional and user-friendly website, including its contents, and the services offered there.
 
@@ -26,7 +30,7 @@ Str. des 17. Juni
 Germany
 
 Phone: +49 30 31429783
-E-Mail: Familyname@math.tu-berlin.de
+E-Mail: <a href="mailto:rapsch@math.tu-berlin.de">Familyname@math.tu-berlin.de</a>
 
 ## II. The rights of users and data subjects
 
