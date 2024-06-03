@@ -20,7 +20,7 @@ Germany
 ## Contact Details
 
 Phone: +49 30 31429783  
-E-Mail: <a href="mailto:rapsch@math.tu-berlin.de">Familyname@math.tu-berlin.de</a>
+E-Mail: <a href="mailto:rapsch@math.tu-berlin.de">[InsertFamilyNameHere]@math.tu-berlin.de</a>  
 Homepage: https://erapsch.github.io
 
 ## Person Responsible for Content in Accordance with 55 Abs. 2 RStV
