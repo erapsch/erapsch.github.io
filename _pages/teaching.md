@@ -11,15 +11,15 @@ Currently, I work as an "Assistent" for the course "Analysis II für Ingenieurwi
 
 ## Previous terms
 
-Previously, after tutoring experience during my BSc studies in Freiburg, I have served as an "Assistent" in several courses of the Mathematics and Business Mathematics BSc and MSc programmes at TU Berlin, under <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Prof. Dr. Peter Bank</a>, <a href="">Prof. Dr. Christoph Knochenhauer</a>, and <a href="">Prof. Dr. Wolfgang König</a> since October 2019, namely:
+Previously, after tutoring experience during my BSc studies in Freiburg, I have served as an "Assistent" (Germany-specific position) in several courses of the Mathematics and Business Mathematics BSc and MSc programmes at TU Berlin, under <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Prof Dr Peter Bank</a>, <a href="https://stochasticcontrol.org/">Prof Dr Christoph Knochenhauer</a>, and <a href="https://www.wias-berlin.de/people/koenig/">Prof Dr Wolfgang König</a> since October 2019, namely:
 
-1. Finanzmathematik / Financial Mathematics I
-2. Finanzmathematik / Financial Mathematics II
-3. Wahrscheinlichkeitstheorie / Probability Theory I
-4. Wahrscheinlichkeitstheorie / Probability Theory II
-5. Analysis I
+1. Finanzmathematik / Financial Mathematics I: Martingales, no-arbitrage pricing theory in discrete time incl. first and second FTAP, incomplete markets, superreplication duality, American options and optimal stopping, portfolio optimisation, Brownian motion and Black-Scholes formula
+2. Finanzmathematik / Financial Mathematics II: Continuous semimartingales, no-arbitrage pricing theory in continuous time, Brownian financial markets, volatility smile and non-trivial volatility models, term structure models, Merton problem
+3. Wahrscheinlichkeitstheorie / Probability Theory I: Basics of measure theory and functional analysis, elementary examples for probability measures, independence, weak/strong law of large numbers, weak convergence and central limit theorem (basic version)
+4. Wahrscheinlichkeitstheorie / Probability Theory II: Further measure theory and functional analysis, martingales in discrete time, Markov chains, ergodic theory, Brownian motion
+5. Analysis I: Basics of logic and set theory, real and complex numbers, sequences and series, continuous functions and derivatives in one real variable, power series, Riemann/regulated integral
 
-## What is an "Assistent"?
+<!-- ## What is an "Assistent"?
 
 "Assistent" (German) = person in charge of:
 
@@ -35,4 +35,4 @@ Previously, after tutoring experience during my BSc studies in Freiburg, I have 
 
 Not all of these points may apply for all courses. There are course with both Übung and Tutorium, there are courses with only one of it. Some courses have oral, others written examinations.
 
-SWS = Semesterwochenstunden = cum tempore hours of courses to be taught per term
+SWS = Semesterwochenstunden = cum tempore hours of courses to be taught per term -->

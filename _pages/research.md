@@ -21,4 +21,4 @@ author_profile: true
 
 ## Preprints
 
-1. Rapsch, E. Emanuel, Decision making in stochastic extensive form I: Stochastic decision forests, 18 April 2024, available on <a href="https://arxiv.org/abs/2404.12332">arXiv</a>, <a href="https://arxiv.org/abs/2404.12332">SSRN</a>
+1. Rapsch, E. Emanuel, Decision making in stochastic extensive form I: Stochastic decision forests, Preprint, 18 April 2024. Available on <a href="https://arxiv.org/abs/2404.12332">arXiv</a> and <a href="https://ssrn.com/abstract=4799573">SSRN</a>.
