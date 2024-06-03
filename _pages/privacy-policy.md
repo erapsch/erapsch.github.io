@@ -30,7 +30,8 @@ Str. des 17. Juni
 Germany  
 
 Phone: +49 30 31429783  
-E-Mail: <a href="mailto:rapsch@math.tu-berlin.de">Familyname@math.tu-berlin.de</a>
+<a href="mailto:rapsch@math.tu-berlin.de">[InsertFamilyNameHere]@math.tu-berlin.de</a>  
+Homepage: https://erapsch.github.io  
 
 ## II. The rights of users and data subjects
 
