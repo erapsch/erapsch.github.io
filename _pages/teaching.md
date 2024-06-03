@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Summer Term 2024
+## Summer term 2024
 
 Currently, I work as an "Assistent" for the course "Analysis II für Ingenieurwissenschaften" at TU Berlin, for further information see the <a href="https://isis.tu-berlin.de/course/view.php?id=37634">ISIS webpage</a>. 
 
