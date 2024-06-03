@@ -10,10 +10,11 @@ redirect_from:
 ## Welcome!
 
 I am a mathematician and active <a href="/research">**researcher**</a> in 
-* Game and decision theory
-* Stochastic control theory
-* Financial mathematics
-* Environmental economics 
+* Game and decision theory,
+* Stochastic control theory,
+* Financial mathematics, and
+* Environmental economics.
+
 I am a PhD candidate in Mathematics at TU Berlin, supervised by <a href="https://stochasticcontrol.org/">Prof Dr Christoph Knochenhauer</a>. Before, I have studied in Oxford, Berlin, Lyon, and Freiburg. I obtained my MSc degree in Lyon (ENS).
 
 Currently, I am employed in the group "Stochastik und Finanzmathematik", under <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Prof Dr Peter Bank</a>, at TU Berlin. Moreover, I am affiliated with the <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford International Research Training Group 2544 "Stochastic Analysis in Interaction"</a>.
