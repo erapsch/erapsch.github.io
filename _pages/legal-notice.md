@@ -9,29 +9,29 @@ author_profile: true
 
 Information in accordance with section 5 TMG:
 
-E. Emanuel Rapsch
-TU Berlin
-Institut für Mathematik
-Sekr. 7-1
-Str. des 17. Juni
-10623 Berlin
-Germany
+E. Emanuel Rapsch  
+TU Berlin  
+Institut für Mathematik  
+Sekr. 7-1  
+Str. des 17. Juni  
+10623 Berlin  
+Germany  
 
 ## Contact Details
 
-Phone: +49 30 31429783
+Phone: +49 30 31429783  
 E-Mail: <a href="mailto:rapsch@math.tu-berlin.de">Familyname@math.tu-berlin.de</a>
 Homepage: https://erapsch.github.io
 
 ## Person Responsible for Content in Accordance with 55 Abs. 2 RStV
 
-E. Emanuel Rapsch
-TU Berlin
-Institut für Mathematik
-Sekr. 7-1
-Str. des 17. Juni
-10623 Berlin
-Germany
+E. Emanuel Rapsch  
+TU Berlin  
+Institut für Mathematik  
+Sekr. 7-1  
+Str. des 17. Juni  
+10623 Berlin  
+Germany  
 
 ## Disclaimer
 
@@ -45,6 +45,6 @@ Responsibility for the content of external links (to web pages of third parties)
 
 # Copyright
 
-Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law (§ 44a et seq. of the copyright law), every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are allowed only for private use, so must not serve either directly or indirectly for earnings. Unauthorized utilization of copyrighted works is punishable (§ 106 of the copyright law).
+Our web pages and their contents are subject to German copyright law. Unless expressly permitted by law (§ 44a et seq. of the copyright law), every form of utilizing, reproducing or processing works subject to copyright protection on our web pages requires the prior consent of the respective owner of the rights. Individual reproductions of a work are allowed only for private use, so must not serve either directly or indirectly for earnings. Unauthorized utilization of copyrighted works is punishable (§ 106 of the copyright law).  
 
 Source: www.muster-vorlagen.net

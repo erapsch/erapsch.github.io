@@ -13,23 +13,23 @@ The following privacy policy is intended to inform you in particular about the t
 
 Our privacy policy is structured as follows:
 
-I. Information about us as controllers of your data
-II. The rights of users and data subjects
-III. Information about the data processing
+* I. Information about us as controllers of your data
+* II. The rights of users and data subjects
+* III. Information about the data processing
 
 ## I. Information about us as controllers of your data
 
 The party responsible for this website (the „controller“) for purposes of data protection law is:
 
-E. Emanuel Rapsch
-TU Berlin
-Institut für Mathematik
-Sekr. 7-1
-Str. des 17. Juni
-10623 Berlin
-Germany
+E. Emanuel Rapsch  
+TU Berlin  
+Institut für Mathematik  
+Sekr. 7-1  
+Str. des 17. Juni  
+10623 Berlin  
+Germany  
 
-Phone: +49 30 31429783
+Phone: +49 30 31429783  
 E-Mail: <a href="mailto:rapsch@math.tu-berlin.de">Familyname@math.tu-berlin.de</a>
 
 ## II. The rights of users and data subjects
