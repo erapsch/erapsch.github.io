@@ -10,11 +10,8 @@ author_profile: true
 Information in accordance with section 5 TMG:
 
 E. Emanuel Rapsch  
-TU Berlin  
-Institut für Mathematik  
-Sekr. 7-1  
-Str. des 17. Juni  
-10623 Berlin  
+Postfach 12 01 35
+10591 Berlin  
 Germany  
 
 ## Contact Details
@@ -26,12 +23,9 @@ Homepage: https://erapsch.github.io
 ## Person Responsible for Content in Accordance with 55 Abs. 2 RStV
 
 E. Emanuel Rapsch  
-TU Berlin  
-Institut für Mathematik  
-Sekr. 7-1  
-Str. des 17. Juni  
-10623 Berlin  
-Germany  
+Postfach 12 01 35
+10591 Berlin  
+Germany
 
 ## Disclaimer
 
