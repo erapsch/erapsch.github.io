@@ -22,7 +22,7 @@ Our privacy policy is structured as follows:
 The party responsible for this website (the „controller“) for purposes of data protection law is:
 
 E. Emanuel Rapsch  
-Postfach 12 01 35
+Postfach 12 01 35 
 10591 Berlin  
 Germany  
 
