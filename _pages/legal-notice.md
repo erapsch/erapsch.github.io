@@ -10,7 +10,7 @@ author_profile: true
 Information in accordance with section 5 TMG:
 
 E. Emanuel Rapsch  
-Postfach 12 01 35 
+Postfach 12 01 35  
 10591 Berlin  
 Germany  
 
@@ -23,7 +23,7 @@ Homepage: https://erapsch.github.io
 ## Person Responsible for Content in Accordance with 55 Abs. 2 RStV
 
 E. Emanuel Rapsch  
-Postfach 12 01 35 
+Postfach 12 01 35  
 10591 Berlin  
 Germany
 
