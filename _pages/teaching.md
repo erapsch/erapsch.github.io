@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Summer term 2024
+## Winter term 2024/25
 
-Currently, I work as an "Assistent" for the course "Analysis II für Ingenieurwissenschaften" at TU Berlin, for further information see the <a href="https://isis.tu-berlin.de/course/view.php?id=37634">ISIS webpage</a>. 
+Currently, I work as an "Assistent" for the course "Analysis II für Ingenieurwissenschaften" at TU Berlin, for further information see the <a href="https://isis.tu-berlin.de/course/view.php?id=40227">ISIS webpage</a>. 
 
 ## Previous terms
 
@@ -18,6 +18,10 @@ Previously, after tutoring experience during my BSc studies in Freiburg, I have 
 3. Wahrscheinlichkeitstheorie / Probability Theory I: Basics of measure theory and functional analysis, elementary examples for probability measures, independence, weak/strong law of large numbers, weak convergence and central limit theorem (basic version)
 4. Wahrscheinlichkeitstheorie / Probability Theory II: Further measure theory and functional analysis, martingales in discrete time, Markov chains, ergodic theory, Brownian motion
 5. Analysis I: Basics of logic and set theory, real and complex numbers, sequences and series, continuous functions and derivatives in one real variable, power series, Riemann/regulated integral
+
+More, I have served as an "Assistent" in Engineering programmes, under <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Prof Dr Christian Mehl</a>, <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">PD Dr Patrick Winkert</a>, <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Dr Gabriele Penn-Karras</a>, and <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Dr Matthias Hammer</a>, namely in the course:
+
+1. Analysis II für Ingenieurwissenschaften / Analysis II for Engineering Sciences: Basic real analysis in finite-dimensional real coordinate space, including continuity, derivatives, integration, classical vector calculus in three-dimensional space
 
 <!-- ## What is an "Assistent"?
 
