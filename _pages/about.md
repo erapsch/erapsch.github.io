@@ -23,6 +23,7 @@ The second main pillar of my academic activity is <a href="/teaching">**teaching
 
 ## News
 
+* 9th November 2024: Revised version of preprint available on arXiv: Decision making in stochastic extensive form I: Stochastic decision forests, <a href="https://arxiv.org/abs/2404.12332v2">arXiv</a>, including several generalisations and additions (order consistent SDF, EIS with/without recall, larger class of action path choices, absent-minded driver SDF), corrections of typos
 * 1st October 2024: New term started, for further information on my current course "Analysis II für Ingenieurwissenschaften" at TU Berlin, see the <a href="https://isis.tu-berlin.de/course/view.php?id=40227">ISIS webpage</a>
 * 18th April 2024: New preprint available on arXiv: Decision making in stochastic extensive form I: Stochastic decision forests, <a href="https://arxiv.org/abs/2404.12332">arXiv</a>.
 * 1st April 2024: New term started, for further information on my current course "Analysis II für Ingenieurwissenschaften" at TU Berlin, see the <a href="https://isis.tu-berlin.de/course/view.php?id=37634">ISIS webpage</a>
