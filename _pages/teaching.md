@@ -11,7 +11,7 @@ Currently, I work as an "Assistent" for the course "Analysis II für Ingenieurwi
 
 ## Previous terms
 
-Previously, after tutoring experience during my BSc studies in Freiburg, I have served as an "Assistent" (Germany-specific position) in several courses of the Mathematics and Business Mathematics BSc and MSc programmes at TU Berlin, under <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Prof Dr Peter Bank</a>, <a href="https://stochasticcontrol.org/">Prof Dr Christoph Knochenhauer</a>, and <a href="https://www.wias-berlin.de/people/koenig/">Prof Dr Wolfgang König</a> since October 2019, namely:
+Previously, after tutoring experience during my BSc studies in Freiburg, I have served as an "Assistent" (Germany-specific position) in several courses of the Mathematics and Business Mathematics BSc and MSc programmes at TU Berlin, under <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Professor Dr Peter Bank</a>, <a href="https://stochasticcontrol.org/">Professor Dr Christoph Knochenhauer</a>, and <a href="https://www.wias-berlin.de/people/koenig/">Professor Dr Wolfgang König</a> since October 2019, namely:
 
 1. Finanzmathematik / Financial Mathematics I: Martingales, no-arbitrage pricing theory in discrete time incl. first and second FTAP, incomplete markets, superreplication duality, American options and optimal stopping, portfolio optimisation, Brownian motion and Black-Scholes formula
 2. Finanzmathematik / Financial Mathematics II: Continuous semimartingales, no-arbitrage pricing theory in continuous time, Brownian financial markets, volatility smile and non-trivial volatility models, term structure models, Merton problem
@@ -19,7 +19,7 @@ Previously, after tutoring experience during my BSc studies in Freiburg, I have 
 4. Wahrscheinlichkeitstheorie / Probability Theory II: Further measure theory and functional analysis, martingales in discrete time, Markov chains, ergodic theory, Brownian motion
 5. Analysis I: Basics of logic and set theory, real and complex numbers, sequences and series, continuous functions and derivatives in one real variable, power series, Riemann/regulated integral
 
-More, I have served as an "Assistent" in Engineering programmes, under <a href="https://page.math.tu-berlin.de/~mehl/">Prof Dr Christian Mehl</a>, <a href="http://www.winkert.de/">PD Dr Patrick Winkert</a>, <a href="https://www.tu.berlin/vcard/matthias.hammer/26766">Dr Matthias Hammer</a>, and <a href="https://www.tu.berlin/math/research-assistants/gabriele-penn-karras">Dr Gabriele Penn-Karras</a>, namely in the course:
+More, I have served as an "Assistent" in Engineering programmes, under <a href="https://page.math.tu-berlin.de/~mehl/">Professor Dr Christian Mehl</a>,  <a href="https://www.tu.berlin/vcard/matthias.hammer/26766">Dr Matthias Hammer</a>, <a href="https://www.tu.berlin/math/research-assistants/gabriele-penn-karras">Dr Gabriele Penn-Karras</a>, and <a href="http://www.winkert.de/">Dr Patrick Winkert</a>,namely in the course:
 
 1. Analysis II für Ingenieurwissenschaften / Analysis II for Engineering Sciences: Basic real analysis in finite-dimensional real coordinate space, including continuity, derivatives, integration, classical vector calculus in three-dimensional space
 
