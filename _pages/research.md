@@ -14,12 +14,11 @@ author_profile: true
 
 ## Work in progress
 
-1. Decision making in stochastic extensive form II: Stochastic extensive form decision problems
-2. Decision making in stochastic extensive form III: Continuous time games
-3. Markovian timing games
-4. On climate policy choice when investing green is a real option game
+1. Decision making in stochastic extensive form III: Stochastic differential games approximation
+2. Markovian timing games
+3. On climate policy choice when investing green is a real option game
 
 ## Preprints
 
-1. Rapsch, E. Emanuel, Decision making in stochastic extensive form I: Stochastic decision forests, Preprint, 9th November 2024 (first version submitted on 18th April 2024). Available on <a href="https://arxiv.org/abs/2404.12332v2">arXiv</a>.
-<!-- and <a href="https://ssrn.com/abstract=4799573">SSRN</a>.-->
+1. Rapsch, E. Emanuel, Decision making in stochastic extensive form II: Stochastic extensive forms and games, Preprint, DOI: 10.48550/ARXIV.2411.17587, November 2024. Available on <a href="https://arxiv.org/abs/2411.17587">arXiv</a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034909">SSRN</a>.
+2. Rapsch, E. Emanuel, Decision making in stochastic extensive form I: Stochastic decision forests, Preprint, Version 2, DOI: 10.48550/ARXIV.2404.12332, November 2024. Available on <a href="https://arxiv.org/abs/2404.12332v2">arXiv</a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799573">SSRN</a>.
