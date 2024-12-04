@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0009-0000-8921-3894"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://scholar.google.de/citations?user=d7b5xeMAAAAJ&hl=de&oi=ao"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "erapsch"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
