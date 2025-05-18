@@ -14,9 +14,10 @@ author_profile: true
 
 ## Work in progress
 
-1. Decision making in stochastic extensive form III: Stochastic differential games approximation
-2. Markovian timing games
-3. On climate policy choice when investing green is a real option game
+1. Stochastic process forms in vertically extended continuous time
+2. Decision making in stochastic extensive form III: Action-inertia stochastic extensive forms
+3. Markovian timing games
+4. On climate policy choice when investing green is a real option game
 
 ## Preprints
 

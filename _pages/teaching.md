@@ -5,9 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Winter term 2024/25
+## Summer term 2025
 
-Currently, I work as an "Assistent" for the course "Analysis II für Ingenieurwissenschaften" at TU Berlin, for further information see the <a href="https://isis.tu-berlin.de/course/view.php?id=40227">ISIS webpage</a>. 
+Currently, I work as an "Assistent" for the course "Analysis II für Ingenieurwissenschaften" at TU Berlin, for further information see the <a href="https://isis.tu-berlin.de/course/view.php?id=42635">ISIS webpage</a>. 
 
 ## Previous terms
 
@@ -19,7 +19,7 @@ Previously, after tutoring experience during my BSc studies in Freiburg, I have 
 4. Wahrscheinlichkeitstheorie / Probability Theory II: Further measure theory and functional analysis, martingales in discrete time, Markov chains, ergodic theory, Brownian motion
 5. Analysis I: Basics of logic and set theory, real and complex numbers, sequences and series, continuous functions and derivatives in one real variable, power series, Riemann/regulated integral
 
-Moreover, I have served as an "Assistent" in Engineering programmes, under <a href="https://page.math.tu-berlin.de/~mehl/">Professor Dr Christian Mehl</a>,  <a href="https://www.tu.berlin/vcard/matthias.hammer/26766">Dr Matthias Hammer</a>, <a href="https://www.tu.berlin/math/research-assistants/gabriele-penn-karras">Dr Gabriele Penn-Karras</a>, and <a href="http://www.winkert.de/">Dr Patrick Winkert</a>, namely in the course:
+Moreover, I have served as an "Assistent" in Engineering programmes, <!--under <a href="https://page.math.tu-berlin.de/~mehl/">Professor Dr Christian Mehl</a>, <a href="http://www.winkert.de/">Priv.-Doz. Dr Patrick Winkert</a>, <a href="https://www.tu.berlin/math/research-assistants/franziska-borer">Dr Franziska Borer</a>, <a href="https://www.tu.berlin/vcard/matthias.hammer/26766">Dr Matthias Hammer</a>, <a href="https://www.tu.berlin/math/research-assistants/gabriele-penn-karras">Dr Gabriele Penn-Karras</a>, and <a href="https://page.math.tu-berlin.de/~quellm/">Dr Michael Quellmalz</a>, -->namely in the course:
 
 1. Analysis II für Ingenieurwissenschaften / Analysis II for Engineering Sciences: Basic real analysis in finite-dimensional real coordinate space, including continuity, derivatives, integration, classical vector calculus in three-dimensional space
 
