@@ -23,9 +23,10 @@ The second main pillar of my academic activity is <a href="/teaching">**teaching
 
 ## News
 
-* 16th May 2025: I presented my work on "Decision making in stochastic extensive form" in the <a href="https://www.uni-bielefeld.de/forschung/profil/fokusbereiche/quamu/index.xml">Quantifying and Managing Uncertainty</a> Research Seminar at the <a href="https://www.uni-bielefeld.de/zwe/imw/">Center for Mathematical Economics (Institut für Mathematische Wirtschaftsforschung IMW)</a>, Bielefeld
+* 3rd June 2025: I submitted my doctoral dissertation at TU Berlin, Fakultät II, entitled "On the Foundations of Dynamic Games and Probability: Decision Making in Stochastic Extensive Form".
+* 16th May 2025: I presented my work on "Decision making in stochastic extensive form" in the <a href="https://www.uni-bielefeld.de/forschung/profil/fokusbereiche/quamu/index.xml">Quantifying and Managing Uncertainty</a> Research Seminar at the <a href="https://www.uni-bielefeld.de/zwe/imw/">Center for Mathematical Economics (Institut für Mathematische Wirtschaftsforschung IMW)</a>, Bielefeld.
 * 1st April 2025: New term started, for further information on my current course "Analysis II für Ingenieurwissenschaften" at TU Berlin, see the <a href="https://isis.tu-berlin.de/course/view.php?id=37634">ISIS webpage</a>
-* 14th March 2025: I presented my joint work with C. Knochenhauer on "Markovian timing games" during the <a href="https://www.gpsd-2025.de/">17th German Probability and Statistics Days (GPSD) 2025 at Technical University Dresden</a>
+* 14th March 2025: I presented my joint work with C. Knochenhauer on "Markovian timing games" during the <a href="https://www.gpsd-2025.de/">17th German Probability and Statistics Days (GPSD) 2025 at Technical University Dresden</a>.
 * 26th November 2024: New preprint available: Decision making in stochastic extensive form II: Stochastic extensive forms and games, see <a href="https://arxiv.org/abs/2404.17587">arXiv</a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5034909">SSRN</a>
 * 9th November 2024: Revised version of preprint available: Decision making in stochastic extensive form I: Stochastic decision forests, including several generalisations and additions, see <a href="https://arxiv.org/abs/2404.12332v2">arXiv</a> / <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4799573">SSRN</a>
 
