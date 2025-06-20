@@ -11,7 +11,7 @@ Currently, I work as an "Assistent" for the course "Analysis II für Ingenieurwi
 
 ## Previous terms
 
-Previously, after tutoring experience during my BSc studies in Freiburg, I have served as an "Assistent" (Germany-specific position) in several courses of the Mathematics and Business Mathematics BSc and MSc programmes at TU Berlin, under <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Professor Dr Peter Bank</a>, <a href="https://stochasticcontrol.org/">Professor Dr Christoph Knochenhauer</a>, and <a href="https://www.wias-berlin.de/people/koenig/">Professor Dr Wolfgang König</a> since October 2019, namely:
+Previously, after tutoring experience during my BSc studies in Freiburg, I have served as an "Assistent" (Germany-specific position) in several courses of the Mathematics and Business Mathematics BSc and MSc programmes at TU Berlin, under <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Professor Dr Peter Bank</a>, <a href="https://stochasticcontrol.org/">Professor Dr Christoph Knochenhauer</a>, and <a href="https://www.wias-berlin.de/people/koenig/">Professor Dr Wolfgang König</a>, namely:
 
 1. Finanzmathematik / Financial Mathematics I: Martingales, no-arbitrage pricing theory in discrete time incl. first and second FTAP, incomplete markets, superreplication duality, American options and optimal stopping, portfolio optimisation, Brownian motion and Black-Scholes formula
 2. Finanzmathematik / Financial Mathematics II: Continuous semimartingales, no-arbitrage pricing theory in continuous time, Brownian financial markets, volatility smile and non-trivial volatility models, term structure models, Merton problem

@@ -11,8 +11,8 @@ Here you can find a brief overview over my CV. A detailed CV is available upon r
 
 ## Work experience
 
-1. Wissenschaftlicher Mitarbeiter: tasks in <a href="/research">research</a> in Stochastics and Financial Mathematics (50 %) and 4 SWS <a href="/teaching">teaching</a> (50 %), Group "Stochastik und Finanzmathematik", TU Berlin, 2019-2025
-2. Tutor (three terms), Universität Freiburg, 2013-2015
+1. Wissenschaftlicher Mitarbeiter: tasks in <a href="/research">research</a> in Stochastics and Financial Mathematics (50 %) and 4 SWS <a href="/teaching">teaching</a> (50 %), Group "Stochastik und Finanzmathematik", TU Berlin
+2. Tutor, Universität Freiburg
 
 ## Education
 
