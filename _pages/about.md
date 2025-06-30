@@ -23,6 +23,7 @@ The second main pillar of my academic activity is <a href="/teaching">**teaching
 
 ## News
 
+* 24th June 2025: I presented the third chapter of my doctoral dissertation on "Stochastic process forms in vertically extended continuous time" at the <a href="https://sites.google.com/view/amamef2025/home">12th General AMaMeF Conference</a> held at the Dipartimento di Scienze Economiche at Università degli Studi di Verona. The talk was entitled "Stochastic differential games as extensive form approximations". The doctoral project was supervised by Christoph Knochenhauer.
 * 3rd June 2025: I submitted my doctoral dissertation at TU Berlin, Fakultät II, entitled "On the Foundations of Dynamic Games and Probability: Decision Making in Stochastic Extensive Form".
 * 16th May 2025: I presented my work on "Decision making in stochastic extensive form" in the <a href="https://www.uni-bielefeld.de/forschung/profil/fokusbereiche/quamu/index.xml">Quantifying and Managing Uncertainty</a> Research Seminar at the <a href="https://www.uni-bielefeld.de/zwe/imw/">Center for Mathematical Economics (Institut für Mathematische Wirtschaftsforschung IMW)</a>, Bielefeld.
 * 1st April 2025: New term started, for further information on my current course "Analysis II für Ingenieurwissenschaften" at TU Berlin, see the <a href="https://isis.tu-berlin.de/course/view.php?id=37634">ISIS webpage</a>
