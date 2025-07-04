@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome!
 
-I am a mathematician and active <a href="/research">**researcher**</a> in 
+I am a mathematician and <a href="/research">**researcher**</a> in 
 * Game and decision theory,
 * Stochastic control theory,
 * Financial mathematics, and
