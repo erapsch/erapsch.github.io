@@ -18,8 +18,7 @@ Here you can find a brief overview over my CV. A detailed CV is available upon r
 
 I studied Mathematics as a primary subject, and also, as secondary subjects, Economics, German Literature, History, and Physics, in Berlin (TU, HU), Oxford, Lyon (ENS), and Freiburg.
 
-1. Ongoing: Dr. rer. nat. Mathematics, TU Berlin, expected 2025
-  * Recognised student, University of Oxford, Michaelmas Term 2023/24
+1. Dr. rer. nat. Mathematics, TU Berlin (procedure for obtaining the degree completed; doctoral certificate not yet formally issued)
 2. MSc Mathematics, École normale supérieure de Lyon / Université Lyon 1 Claude Bernard
 3. BSc Mathematics, Universität Freiburg
 
