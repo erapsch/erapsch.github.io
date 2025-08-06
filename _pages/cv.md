@@ -12,14 +12,15 @@ Here you can find a brief overview over my CV. A detailed CV is available upon r
 ## Work experience
 
 1. Wissenschaftlicher Mitarbeiter: tasks in <a href="/research">research</a> in Stochastics and Financial Mathematics (50 %) and 4 SWS <a href="/teaching">teaching</a> (50 %), Group "Stochastik und Finanzmathematik", TU Berlin
-2. Tutor, Universität Freiburg
+2. Research Intern (3x): research tasks in Financial Mathematics (CREST, Paris) and Complex Geometry (Institut Fourier, Grenoble)
+3. Tutor (3x), Universität Freiburg
 
 ## Education
 
 I studied Mathematics as a primary subject, and also, as secondary subjects, Economics, German Literature, History, and Physics, in Berlin (TU, HU), Oxford, Lyon (ENS), and Freiburg.
 
 1. Dr. rer. nat. Mathematics, TU Berlin (procedure for obtaining the degree completed; doctoral certificate not yet formally issued)
-2. MSc Mathematics, École normale supérieure de Lyon / Université Lyon 1 Claude Bernard
+2. MSc Mathematics, École normale supérieure de Lyon
 3. BSc Mathematics, Universität Freiburg
 
 ## Further activities and affiliations
