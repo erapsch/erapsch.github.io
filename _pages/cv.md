@@ -19,8 +19,8 @@ Here you can find a brief overview over my CV. A detailed CV is available upon r
 
 I studied Mathematics as a primary subject, and also, as secondary subjects, Economics, German Literature, History, and Physics, in Berlin (TU, HU), Oxford, Lyon (ENS), and Freiburg.
 
-1. Dr. rer. nat. Mathematics, TU Berlin (procedure for obtaining the degree completed; doctoral certificate not yet formally issued)
-2. MSc Mathematics, École normale supérieure de Lyon
+1. Dr. rer. nat. Mathematics, Technische Universität Berlin (procedure for obtaining the degree completed; doctoral certificate not yet formally issued)
+2. MSc Mathematics, École normale supérieure de Lyon / Université Lyon 1
 3. BSc Mathematics, Universität Freiburg
 
 ## Further activities and affiliations

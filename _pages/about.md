@@ -9,13 +9,13 @@ redirect_from:
 
 ## Welcome!
 
-I am a mathematician and <a href="/research">**researcher**</a> in 
+I am a mathematician. My <a href="/research">**research**</a> interests include 
 * Game and decision theory,
 * Stochastic control theory,
 * Financial mathematics, and
 * Environmental economics.
 
-I have successfully completed the procedure for obtaining the degree <em>Doctor rerum naturalium</em> at TU Berlin, supervised by <a href="https://stochasticcontrol.org/">Professor Dr Christoph Knochenhauer</a>. The jury members were Professores Dres Max Klimm (chair), Christoph Knochenhauer, and Frank Riedel (Universität Bielefeld, Center for Mathematical Economics (IMW) Bielefeld). Before this, I have studied in Oxford, Berlin, Lyon, and Freiburg. I obtained an MSc degree in Mathematics in Lyon (ENS).
+I have successfully completed the procedure for obtaining the degree <em>Dr. rer. nat.</em> in Mathematics at Technische Universität Berlin. Before this, I have studied in Oxford, Berlin, Lyon (ENS), and Freiburg. I obtained the degree <em>Master of Science</em> in Mathematics in Lyon.
 
 Currently, I am employed in the group "Stochastik und Finanzmathematik", led by <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Professor Dr Peter Bank</a>, at TU Berlin. During my PhD studies, I have been affiliated with the <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford International Research Training Group 2544 "Stochastic Analysis in Interaction"</a>, a certified unit of the <a href="https://www.math-berlin.de/">Berlin Mathematical School</a>.
 
