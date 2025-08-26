@@ -15,7 +15,7 @@ I am a mathematician. My <a href="/research">**research**</a> interests include
 * Financial mathematics, and
 * Environmental economics.
 
-Click <a href="https://arxiv.org/pdf/2508.04752">here</a> to download my doctoral dissertation, including a preface for non-experts and experts alike. See <a href="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf">here</a> to download the slides of my defence.
+See <a href="https://arxiv.org/pdf/2508.04752">here</a> to take a look at it, including a preface for non-experts and experts alike. Click <a href="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf">here</a> to read the slides of my defence.
 <!--<embed src="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf" width="600" height="700" type='application/pdf'> -->
 
 I have successfully completed the procedure for obtaining the degree <em>Dr. rer. nat.</em> in Mathematics at Technische Universität Berlin. Before this, I have studied in Oxford, Berlin, Lyon (ENS), and Freiburg. I obtained the degree <em>Master of Science</em> in Mathematics in Lyon.
