@@ -5,9 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
-## Doctoral dissertation
+## Doctorate
 
-My doctoral dissertation is <em>On the Foundations of Dynamic Games and Probability: Decision Making in Stochastic Extensive Form</em>. See <a href="https://arxiv.org/pdf/2508.04752">here</a> to take a look at it, including a preface for non-experts and experts alike. Click <a href="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf">here</a> to read the slides of my defence.
+My doctoral dissertation is <em>On the Foundations of Dynamic Games and Probability: Decision Making in Stochastic Extensive Form</em>, Technische Universität Berlin, 2025. See <a href="https://arxiv.org/pdf/2508.04752">here</a> to take a look at it, including a preface for non-experts and experts alike. Click <a href="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf">here</a> to read the slides for the 30-minute talk at my doctoral defence, which provides an overview of the dissertation.
 
 ## Research interests
 
