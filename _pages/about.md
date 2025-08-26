@@ -14,6 +14,7 @@ I am a mathematician. My <a href="/research">**research**</a> interests include
 * Stochastic control theory,
 * Financial mathematics, and
 * Environmental economics.
+
 Click <a href="https://arxiv.org/pdf/2508.04752">here</a> to download my doctoral dissertation, including a preface for non-experts and experts alike. See <a href="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf">here</a> to download the slides of my defence.
 <!--<embed src="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf" width="600" height="700" type='application/pdf'> -->
 
