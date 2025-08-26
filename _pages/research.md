@@ -5,6 +5,10 @@ permalink: /research/
 author_profile: true
 ---
 
+## Doctoral dissertation
+
+My doctoral dissertation is "On the Foundations of Dynamic Games and Probability: Decision Making in Stochastic Extensive Form". Click <a href="https://arxiv.org/pdf/2508.04752">here</a> to download it, including a preface for non-experts and experts alike. See <embed src="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf" width="600" height="700" type='application/pdf'> for the slides of my defence.
+
 ## Research interests
 
 * Game and decision theory
@@ -14,7 +18,7 @@ author_profile: true
 
 ## Work in progress
 
-1. Stochastic process forms in vertically extended continuous time
+1. Continuous-time portfolio optimisation
 2. Action-inertia stochastic extensive forms
 3. Markovian timing games
 4. On climate policy choice when investing green is a real option game
@@ -26,7 +30,7 @@ author_profile: true
 
 ## Doctoral dissertation and theses
 
-1. Rapsch, E. Emanuel, On the Foundations of Dynamic Games and Probability: Decision Making in Stochastic Extensive Form, doctoral dissertation submitted at TU Berlin, Fakultät II, 2025.
+1. Rapsch, E. Emanuel, On the Foundations of Dynamic Games and Probability: Decision Making in Stochastic Extensive Form, doctoral dissertation, TU Berlin, 2025. Available on <a href="https://doi.org/10.48550/arXiv.2508.04752">arXiv</a>.
 2. Rapsch, E. Emanuel, Quelques aspects du théorème G.A.G.A. d'un point de vue L², mémoire de M2 (second year Master thesis), E.N.S. de Lyon, 2017.
 3. Rapsch, E. Emanuel, Décomposition de Hodge et Uniformisation, mémoire de M1 (first year Master thesis), E.N.S. de Lyon, 2016.
 4. Rapsch, E. Emanuel, Eine Verallgemeinerung des Eguchi-Hanson-Metrik, Bachelor thesis, Universität Freiburg, 2015.
