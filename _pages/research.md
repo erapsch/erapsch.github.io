@@ -33,4 +33,4 @@ My doctoral dissertation is <em>On the Foundations of Dynamic Games and Probabil
 1. Rapsch, E. Emanuel, On the Foundations of Dynamic Games and Probability: Decision Making in Stochastic Extensive Form, doctoral dissertation, TU Berlin, 2025. Available on <a href="https://doi.org/10.48550/arXiv.2508.04752">arXiv</a>.
 2. Rapsch, E. Emanuel, Quelques aspects du théorème G.A.G.A. d'un point de vue L², mémoire de M2 (second year Master thesis), E.N.S. de Lyon, 2017.
 3. Rapsch, E. Emanuel, Décomposition de Hodge et Uniformisation, mémoire de M1 (first year Master thesis), E.N.S. de Lyon, 2016.
-4. Rapsch, E. Emanuel, Eine Verallgemeinerung des Eguchi-Hanson-Metrik, Bachelor thesis, Universität Freiburg, 2015.
+4. Rapsch, E. Emanuel, Eine Verallgemeinerung der Eguchi-Hanson-Metrik, Bachelor thesis, Universität Freiburg, 2015.
