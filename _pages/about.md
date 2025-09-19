@@ -9,7 +9,7 @@ redirect_from:
 
 ## Welcome!
 
-I am a mathematician. My academic <a href="/research">**research**</a> interests include 
+I am a mathematician (PhD). My academic <a href="/research">**research**</a> interests include 
 * Game and decision theory,
 * Stochastic control theory,
 * Financial mathematics, and
@@ -18,7 +18,7 @@ I am a mathematician. My academic <a href="/research">**research**</a> interests
 See <a href="https://arxiv.org/pdf/2508.04752">here</a> to take a look at my doctoral dissertation, including a preface for non-experts and experts alike. Click <a href="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf">here</a> to read the slides for the 30-minute talk at my doctoral defence, which provides an overview of the dissertation.
 <!--<embed src="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf" width="600" height="700" type='application/pdf'> -->
 
-I obtained the degree <em>Dr. rer. nat.</em> in Mathematics at Technische Universität Berlin and within the <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford International Research Training Group 2544 "Stochastic Analysis in Interaction"</a>, a certified unit of the <a href="https://www.math-berlin.de/">Berlin Mathematical School</a>. Before this, I have studied in Oxford, Berlin, Lyon (ENS), and Freiburg. I obtained the degree <em>Master of Science</em> in Mathematics in Lyon.
+I obtained the degree <em>Dr. rer. nat.</em> in Mathematics at Technische Universität Berlin and within the <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford International Research Training Group 2544 "Stochastic Analysis in Interaction"</a>, a certified unit of the <a href="https://www.math-berlin.de/">Berlin Mathematical School</a>. Before this, I have studied in Oxford, Berlin, Lyon (ENS), and Freiburg, and obtained the degree <em>Master of Science</em> in Mathematics in Lyon.
 
 Currently, I am employed in the group "Stochastik und Finanzmathematik", led by <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Professor Dr Peter Bank</a>, at TU Berlin.
 
