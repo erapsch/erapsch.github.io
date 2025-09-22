@@ -11,7 +11,7 @@ My doctoral dissertation is <em>On the Foundations of Dynamic Games and Probabil
 
 ## Research interests
 
-* Stochastic analysis and control theory
+* Stochastic analysis and control
 * Game and decision theory
 * Financial mathematics
 * Environmental economics
