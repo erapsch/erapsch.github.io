@@ -27,4 +27,4 @@ I studied Mathematics as a primary subject, and also, as secondary subjects, Eco
 
 * <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford IRTG 2544 "Stochastic Analysis in Interaction"</a>
 * <a href="https://www3.math.tu-berlin.de/TDM/tdm-2024/">Tag der Mathematik</a>, organised by Berliner Mathematische Gesellschaft
-* <a href="https://www.decarb.world/">d/carb future economy forum</a>
+* <a href="https://www.decarb.world/">d\carb future economy forum</a>

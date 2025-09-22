@@ -9,18 +9,12 @@ redirect_from:
 
 ## Welcome!
 
-I am a mathematician (PhD). My academic <a href="/research">**research**</a> interests include 
-* Game and decision theory,
-* Stochastic control theory,
-* Financial mathematics, and
-* Environmental economics.
+I am a mathematician (PhD) specialising in stochastic analysis and control theory, game and decision theory, financial mathematics, and environmental economics. With international academic experience at TU Berlin, University of Oxford, ENS de Lyon, and Uni Freiburg, I combine rigorous theoretical research with practical applications in finance, economics, and policy making. Currently part of the Stochastics and Financial Mathematics group at TU Berlin, led by <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Professor Dr Peter Bank</a>, I am interested in leveraging mathematics to understand and solve strategic problems under complex dynamics and uncertainty and to support better decision making in finance, economics, and beyond.
 
-See <a href="https://arxiv.org/pdf/2508.04752">here</a> to take a look at my doctoral dissertation, including a preface for non-experts and experts alike. Click <a href="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf">here</a> to read the slides for the 30-minute talk at my doctoral defence, which provides an overview of the dissertation.
+To get an idea of my academic <a href="/research">**research**</a>, click <a href="https://arxiv.org/pdf/2508.04752">here</a> and take a look at my doctoral dissertation, including a preface for non-experts and experts alike. Click <a href="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf">here</a> to read the slides for the 30-minute talk at my doctoral defence, which provides an overview of the dissertation.
 <!--<embed src="{{ site.baseurl }}/files\On_the_Foundations_of_Dynamic_Games_and_Probability__Decision_Making_in_Stochastic_Extensive_Form.pdf" width="600" height="700" type='application/pdf'> -->
 
 I obtained the degree <em>Dr. rer. nat.</em> in Mathematics at Technische Universität Berlin and within the <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford International Research Training Group 2544 "Stochastic Analysis in Interaction"</a>, a certified unit of the <a href="https://www.math-berlin.de/">Berlin Mathematical School</a>. Before this, I have studied in Oxford, Berlin, Lyon (ENS), and Freiburg, and obtained the degree <em>Master of Science</em> in Mathematics in Lyon.
-
-Currently, I am employed in the group "Stochastik und Finanzmathematik", led by <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Professor Dr Peter Bank</a>, at TU Berlin.
 
 The second main pillar of my academic activity is <a href="/teaching">**teaching**</a>. I have taught mainly in courses on Probability Theory, Financial Mathematics, and Analysis, mostly for pure Mathematics programmes, but also for Business Mathematics and Engineering programmes.
 
