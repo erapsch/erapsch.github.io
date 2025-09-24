@@ -22,9 +22,9 @@ repository               : "erapsch/erapsch.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Dr. E. Emanuel Rapsch"
+  name             : "Dr. rer. nat. E. Emanuel Rapsch"
   pronouns         : # example: "she/her"  
-  bio              : "Dr. rer. nat. | Mathematician | Probability, Game & Decision Theory, Math. Finance | Multilingual DE/EN/FR"
+  bio              : "Mathematician | Probability, Game & Decision Theory, Math. Finance | Multilingual DE/EN/FR"
   location         : "Berlin, Germany"
   employer         : "TU Berlin"
   uri              : # URL
