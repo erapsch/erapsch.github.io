@@ -15,7 +15,7 @@ Here you can find a brief overview over my CV. A detailed CV is available upon r
 2. Research Intern (3x): research tasks in Financial Mathematics (CREST, Paris) and Complex Geometry (Institut Fourier, Grenoble)
 3. Tutor (3x), Universität Freiburg
 
-I worked on a large range of topics in mathematics, with strong interest in the connection to economics and finance. This resulted in a roughly 250-pages monograph on Probability, Game, and Decision Theory. I have held about two dozens scientific presentations at international conferences, workshops, seminars, several of them on invitation. See <a href="/research">**research**</a> for more information.
+I worked on a large range of topics in mathematics, with strong interest in the connection to economics and finance. This resulted in a roughly 250-pages monograph on Probability, Game, and Decision Theory. I have held about two dozen scientific presentations at international conferences, workshops, seminars, several of them on invitation. See <a href="/research">**research**</a> for more information.
 
 I taught in pure and applied math programmes as well as in service courses for engineers, in small and huge formats. This included manifold organisational tasks, supervising of teaching assistants, preparing pedagogic material, and holding classes. See <a href="/teaching">**teaching**</a> for more information.
 
