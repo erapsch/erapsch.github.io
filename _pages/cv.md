@@ -11,7 +11,7 @@ Here you can find a brief overview over my curriculum.
 
 ## Work experience
 
-1. Wissenschaftlicher Mitarbeiter: tasks in <a href="/research">research</a> in Stochastics and Financial Mathematics (50 %) and 4 SWS <a href="/teaching">teaching</a> (50 %), Group "Stochastik und Finanzmathematik", lastly under <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Professor Dr. Peter Bank</a>, TU Berlin
+1. Wissenschaftlicher Mitarbeiter: tasks in <a href="/research">research</a> in Stochastics and Financial Mathematics (50 %) and 4 SWS <a href="/teaching">teaching</a> (50 %), Group "Stochastik und Finanzmathematik", lastly under <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Professor Dr. Peter Bank</a>, formerly under <a href="https://www.stochasticcontrol.org">Professor Dr. Christoph Knochenhauer</a>, Technische Universität Berlin
 2. Research Intern (3x): research tasks in Financial Mathematics (CREST, Paris) and Complex Geometry (Institut Fourier, Grenoble)
 3. Tutor (3x), Universität Freiburg
 
