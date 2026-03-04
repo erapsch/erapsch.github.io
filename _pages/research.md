@@ -11,17 +11,19 @@ My doctoral dissertation is <em>On the Foundations of Dynamic Games and Probabil
 
 ## Research interests
 
-* Stochastic analysis and control
-* Game and decision theory
-* Financial mathematics
-* Environmental economics
+* Game Theory and Decision Theory
+* Stochastic Analysis and Control Theory
+* Financial Mathematics
+* Microeconomics and Industrial Organisation
+* Climate Economics
+* Scientific Computing and Machine Learning
 
+<!-->
 ## Work in progress
 
-1. Continuous-time portfolio optimisation
-2. Action-inertia stochastic extensive forms
-3. Markovian timing games
-4. On climate policy choice when investing green is a real option game
+A lot.
+
+<-->
 
 ## Preprints
 
