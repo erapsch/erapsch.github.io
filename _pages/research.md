@@ -18,12 +18,12 @@ My doctoral dissertation is <em>On the Foundations of Dynamic Games and Probabil
 * Climate Economics
 * Scientific Computing and Machine Learning
 
-<!-->
+<!--
 ## Work in progress
 
 A lot.
 
-<-->
+-->
 
 ## Preprints
 
