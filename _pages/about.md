@@ -9,7 +9,7 @@ redirect_from:
 
 Welcome to my academic website! I am a **mathematician** with expertise in **quantitative and game-theoretic modelling, risk and uncertainty analysis, and data-driven methods**. Getting deeply into the **theoretical core of phenomena and ideas** and providing insights that **create value in real-world decisions** are, to me, two sides of the same coin.
 
-To find out more about my **work outside academia**, see my <a href="https://www.linkedin.com/in/erapsch">LinkedIn page</a>. As a Decision Scientist, I contribute to the decision intelligence platform of my employer <a href="https://tulana.de/">tulana</a>.
+To find out more about my **work outside academia**, see my <a href="https://www.linkedin.com/in/erapsch">LinkedIn page</a>. As a Decision Scientist, I contribute to the decision intelligence platform of <a href="https://tulana.de/">tulanā</a>.
 
 I obtained a **PhD in Mathematics** from Technische Universität (TU) Berlin, following studies in Berlin, at the University of Oxford, Ecole normale supérieure (ENS) de Lyon, and the University of Freiburg. I am experienced in international research environments and interdisciplinary collaboration, and worked as a full-time Research and Teaching Associate at TU Berlin for several years. Find out more <a href="/CV">here</a>.
 
