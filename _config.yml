@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "E. Emanuel Rapsch"
+locale                   : "en-UK"
+title                    : "Academic website of E. Emanuel Rapsch"
 title_separator          : "-"
 name                     : &name "E. Emanuel Rapsch"
 description              : &description "personal description"
@@ -22,11 +22,11 @@ repository               : "erapsch/erapsch.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Dr. rer. nat. E. Emanuel Rapsch"
+  name             : "Dr. E. Emanuel Rapsch"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematician | Probability, Game & Decision Theory, Math. Finance | Multilingual DE/EN/FR"
+  bio              : "Mathematician | Probability, Game & Decision Theory | DE-EN-FR"
   location         : "Berlin, Germany"
-  employer         : "TU Berlin"
+  employer         : # employer name
   uri              : # URL
   email            : "rapsch@tu-berlin.de" 
 
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : # "erapsch"
+  github           : "erapsch"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
