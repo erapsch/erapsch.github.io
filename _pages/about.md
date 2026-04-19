@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my **academic homepage**! I am a **mathematician** with expertise in **quantitative and game-theoretic modelling, risk and uncertainty analysis, and data-driven methods**. Getting deeply into the **theoretical core of problems and ideas** and providing insights that **create value in real-world decisions** are, to me, two sides of the same coin.
+Welcome to my **academic homepage**! I am a **mathematician** with expertise in **quantitative and game-theoretic modelling, risk and uncertainty analysis, and data-driven methods**. Getting deeply into the **theoretical core of phenomena and ideas** and providing insights that **create value in real-world decisions** are, to me, two sides of the same coin.
 
 To find out more about my **work outside academia**, see my <a href="https://www.linkedin.com/in/erapsch">LinkedIn page</a>. As a Decision Scientist, I contribute to the decision intelligence platform of my employer <a href="https://tulana.de/">tulana</a>.
 

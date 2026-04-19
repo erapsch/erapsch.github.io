@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Academic website of E. Emanuel Rapsch"
 title_separator          : "-"
 name                     : &name "E. Emanuel Rapsch"
@@ -22,9 +22,9 @@ repository               : "erapsch/erapsch.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Dr. rer. nat. E. Emanuel Rapsch"
+  name             : "Dr. E. Emanuel Rapsch"
   pronouns         : # example: "she/her"  
-  bio              : "Mathematician | Probability, Game & Decision Theory | De-En-Fr"
+  bio              : "Mathematician | Probability, Game & Decision Theory | DE-EN-FR"
   location         : "Berlin, Germany"
   employer         : # employer name
   uri              : # URL
