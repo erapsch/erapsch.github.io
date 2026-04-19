@@ -30,5 +30,5 @@ I studied mathematics as my primary subject, with additional studies in economic
 ## Further activities and affiliations
 
 * <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford IRTG 2544 "Stochastic Analysis in Interaction"</a> (former affiliated member and student representative)
-* <a href="https://www3.math.tu-berlin.de/TDM/tdm-2024/">Tag der Mathematik</a>, organised by Berliner Mathematische Gesellschaft (contributed to the competition and the science communication programme)
+* <a href="https://math.berlin/">Berliner Mathematische Gesellschaft</a> (member, contributed to the Tag der Mathematik competition and the science communication programme)
 * <a href="https://www.decarb.world/">d\carb future economy forum</a> (member, organised a science communication event on green finance)
