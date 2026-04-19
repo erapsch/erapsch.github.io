@@ -11,12 +11,12 @@ My doctoral dissertation is <em>On the Foundations of Dynamic Games and Probabil
 
 ## Research interests
 
-* Game Theory and Decision Theory
-* Stochastic Analysis and Control Theory
-* Financial Mathematics
-* Microeconomics and Industrial Organisation
-* Climate Economics
-* Scientific Computing and Machine Learning
+* Game theory and decision theory
+* Stochastic analysis and control theory
+* Financial mathematics
+* Microeconomics and industrial organisation
+* Climate economics
+* Scientific computing and machine learning
 
 <!--
 ## Work in progress
