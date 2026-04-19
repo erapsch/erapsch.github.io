@@ -11,7 +11,7 @@ Below is a brief overview of my academic experience and educational background.
 
 ## Academic experience
 
-1. Research and Teaching Associate, full-time, Group "Stochastik und Finanzmathematik", Technische Universität Berlin
+1. Research and Teaching Associate, Group "Stochastik und Finanzmathematik" at Technische Universität Berlin, in the unit of <a href="https://www3.math.tu-berlin.de/stoch/wp_bank/">Professor Dr. Peter Bank</a>
 2. Research Guest / Visitor / Intern: Mathematical Institute / Department of Economics at the University of Oxford, CREST Paris, FRIAS Freiburg, Institut Fourier Grenoble
 3. Teaching Assistant (Tutor), Universität Freiburg
 
@@ -23,7 +23,7 @@ I taught in pure and applied mathematics programmes as well as in service course
 
 I studied mathematics as my primary subject, with additional studies in economics, German literature, history, and physics at TU Berlin, HU Berlin, Oxford, École Normale Supérieure (ENS) de Lyon, and Freiburg.
 
-1. Dr. rer. nat. Mathematics, Technische Universität Berlin, University of Oxford 
+1. Dr. rer. nat. Mathematics, Technische Universität Berlin, University of Oxford
 2. MSc Mathematics, École normale supérieure de Lyon, Université Lyon 1
 3. BSc Mathematics, Albert-Ludwigs-Universität Freiburg
 
