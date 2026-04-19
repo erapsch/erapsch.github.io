@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Here you can find a brief overview over my curriculum. 
+Below is a brief overview of my academic experience and educational background. 
 
 ## Academic experience
 
@@ -15,13 +15,13 @@ Here you can find a brief overview over my curriculum.
 2. Research Guest / Visitor / Intern: Mathematical Institute / Department of Economics at the University of Oxford, CREST Paris, FRIAS Freiburg, Institut Fourier Grenoble
 3. Teaching Assistant (Tutor), Universität Freiburg
 
-I worked on a large range of topics in mathematics, with strong interest in the connection to economics and finance. This resulted in a roughly 250-pages monograph on Probability, Game, and Decision Theory. I have held about two dozen scientific presentations at international conferences, workshops, seminars, several of them on invitation. See <a href="/research">**research**</a> for more information.
+I worked on a large range of topics in mathematics, with a strong interest in the connections to economics and finance. This resulted in a roughly 250-page monograph on probability, game, and decision theory. I have given about two dozen scientific presentations at international conferences, workshops, and seminars, several of them by invitation. See <a href="/research">**research**</a> for more information.
 
-I taught in pure and applied math programmes as well as in service courses for engineers, in small formats for advanced audiences as well as in huge ones for Bachelor students. This included manifold organisational tasks, supervising of teaching assistants, preparing pedagogic material, and holding classes. See <a href="/teaching">**teaching**</a> for more information.
+I taught in pure and applied mathematics programmes as well as in service courses for engineering students, in small formats for advanced audiences as well as in large ones for bachelor students. This included various organisational tasks, supervising teaching assistants, preparing pedagogical materials, and delivering lectures. See <a href="/teaching">**teaching**</a> for more information.
 
 ## Education
 
-I studied Mathematics as a primary subject, and also Economics, German Literature, History, and Physics, in Berlin (TU, HU), Oxford, Lyon (ENS), and Freiburg.
+I studied mathematics as my primary subject, with additional studies in economics, German literature, history, and physics at TU Berlin, HU Berlin, Oxford, École Normale Supérieure (ENS) de Lyon, and Freiburg.
 
 1. Dr. rer. nat. Mathematics, Technische Universität Berlin, University of Oxford 
 2. MSc Mathematics, École normale supérieure de Lyon, Université Lyon 1
@@ -31,4 +31,4 @@ I studied Mathematics as a primary subject, and also Economics, German Literatur
 
 * <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford IRTG 2544 "Stochastic Analysis in Interaction"</a> (former affiliated member and student representative)
 * <a href="https://www3.math.tu-berlin.de/TDM/tdm-2024/">Tag der Mathematik</a>, organised by Berliner Mathematische Gesellschaft (contributed to the competition and the science communication programme)
-* <a href="https://www.decarb.world/">d\carb future economy forum</a> (member, organised a science communication event on Green Finance)
+* <a href="https://www.decarb.world/">d\carb future economy forum</a> (member, organised a science communication event on green finance)
