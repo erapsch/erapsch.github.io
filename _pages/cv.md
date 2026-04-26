@@ -31,4 +31,4 @@ I studied mathematics as my primary subject, with additional studies in economic
 
 * <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford IRTG 2544 "Stochastic Analysis in Interaction"</a> (alumnus)
 * <a href="https://math.berlin/">Berliner Mathematische Gesellschaft</a>
-* <a href="https://www.decarb.world/">d\carb future economy forum</a
+* <a href="https://www.decarb.world/">d\carb future economy forum</a>
