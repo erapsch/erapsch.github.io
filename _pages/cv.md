@@ -24,11 +24,11 @@ I taught in pure and applied mathematics programmes as well as in service course
 I studied mathematics as my primary subject, with additional studies in economics, German literature, history, and physics at TU Berlin, HU Berlin, Oxford, École Normale Supérieure (ENS) de Lyon, and Freiburg.
 
 1. Dr. rer. nat. Mathematics, Technische Universität Berlin, University of Oxford
-2. MSc Mathematics, École normale supérieure de Lyon, Université Lyon 1
-3. BSc Mathematics, Albert-Ludwigs-Universität Freiburg
+2. M. Sc. Mathematics, École normale supérieure de Lyon, Université Lyon 1
+3. B. Sc. Mathematics, Albert-Ludwigs-Universität Freiburg
 
-## Further activities and affiliations
+## Further related activities and affiliations
 
-* <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford IRTG 2544 "Stochastic Analysis in Interaction"</a> (former affiliated member and student representative)
-* <a href="https://math.berlin/">Berliner Mathematische Gesellschaft</a> (member, contributed to the Tag der Mathematik competition and the science communication programme)
-* <a href="https://www.decarb.world/">d\carb future economy forum</a> (member, organised a science communication event on green finance)
+* <a href="https://www3.math.tu-berlin.de/stoch/IRTG/">Berlin-Oxford IRTG 2544 "Stochastic Analysis in Interaction"</a> (alumnus)
+* <a href="https://math.berlin/">Berliner Mathematische Gesellschaft</a>
+* <a href="https://www.decarb.world/">d\carb future economy forum</a
