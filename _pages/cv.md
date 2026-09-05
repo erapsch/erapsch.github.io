@@ -15,7 +15,7 @@ Below is a brief overview of my academic experience and educational background.
 2. Research Guest / Visitor / Intern: Mathematical Institute / Department of Economics at the University of Oxford, CREST Paris, FRIAS Freiburg, Institut Fourier Grenoble
 3. Teaching Assistant (Tutor), Universität Freiburg
 
-I worked on a wide range of topics in mathematics, with a strong interest in the connections to economics and finance. This resulted in a roughly 250-page monograph on probability, game, and decision theory. I have given about two dozen scientific presentations at international conferences, workshops, and seminars, several of them by invitation. See <a href="/research">**research**</a> for more information.
+I worked on a wide range of topics in mathematics, with a strong interest in the connections to economics and finance. This resulted in a roughly 249-page monograph on probability, game, and decision theory. I have given about two dozen scientific presentations at international conferences, workshops, and seminars, several of them by invitation. See <a href="/research">**research**</a> for more information.
 
 I taught in pure and applied mathematics programmes as well as in service courses for engineering students, in small formats for advanced audiences as well as in large ones for bachelor students. This included various organisational tasks, supervising teaching assistants, preparing pedagogical materials, and delivering lectures. See <a href="/teaching">**teaching**</a> for more information.
 
@@ -23,7 +23,7 @@ I taught in pure and applied mathematics programmes as well as in service course
 
 I studied mathematics as my primary subject, with additional studies in economics, German literature, history, and physics at TU Berlin, HU Berlin, Oxford, École normale supérieure (ENS) de Lyon, and Freiburg.
 
-1. Dr. rer. nat. Mathematics, Technische Universität Berlin, University of Oxford
+1. Dr. rer. nat. Mathematics, Technische Universität Berlin, Berlin Mathematical School, Berlin-Oxford IRTG 2544, incl. a term as Recognised Student at the University of Oxford, Mathematical Institute
 2. M. Sc. Mathematics, École normale supérieure de Lyon, Université Lyon 1
 3. B. Sc. Mathematics, Albert-Ludwigs-Universität Freiburg
 
